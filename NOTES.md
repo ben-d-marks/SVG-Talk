@@ -28,6 +28,7 @@ Why should you, as a developer care about the what and why of SVG? Join us Septe
 - ~~History (10-15)~~
 - Use cases:
     - Good at:
+        - size: Wow! these are text files. Do a comparison.
         - responsiveness
             - Graphics do not have to be different for different screen 
             sizes and density. One file for all use-cases. These graphics 
