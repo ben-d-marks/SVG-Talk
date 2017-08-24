@@ -21,7 +21,8 @@ Why should you, as a developer care about the what and why of SVG? Join us Septe
 
 **Note: The value of a pixel depends on the view box**
 
-# build an app for this too. just press buttons.
+**build an app for this. just press buttons. And don't switch windows 
+for no reason. Always include a 'back' button.**
 
 #### Agenda
 
@@ -56,10 +57,10 @@ Why should you, as a developer care about the what and why of SVG? Join us Septe
     - `<g>`
     - shape and path elements
     - animation elements
+    - the `xlink:href` attribute is deprecated. just use `href`
 - Usage (15-20)
     - tied into the above explanation... then tie it together with a big thing.
     - make a site to contain all this!
-
 
 #### What I think I know
 
@@ -70,14 +71,57 @@ _Forget all you know, or **think** you know_ - Willow
 - based on XML
 - makes more than straight lines
 
-### History
+### History??
 
 ### Format
 
-### Usage
+### Usages
 
 #### direct manipulation?
 #### d3.js definitely
 
 #### applications?
-Custom loading icons
+- Custom loading icons
+- Reusable graphics
+- Simple 
+
+## Slides
+
+1. Intro - name and title
+    1. Title of talk
+    1. Name and background
+1. Brief History
+    1. Microsoft and Adobe
+    1. W3C standard
+1. Disadvantages
+1. Advantages
+    1. responsiveness
+    1. size
+    1. etc
+1. Construction
+    1. elements
+    1. important tags
+    1. starting off
+1. Applications
+    1. current uses
+        - Maps!
+    1. cool animation
+        - NWP logo?
+        - water/ocean
+    1. color-blind app
+    1. Monty Python Animation
+1. Holy god the examples!
+
+
+
+
+# Take a step BACK:
+1. as a developer, why do I care about SVG?
+    - explore capabilities
+1. as a developer, what can I do with svg, that I cannot do any other way?
+    - These have some caveats
+    - highlight EASE of USE and integration
+1. Ok, now we HAVE to mention d3.js
+    - Refer to delaine's talk.
+    - go through some examples from the tutorial site
+    
