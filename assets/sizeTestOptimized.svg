@@ -1,0 +1,8 @@
+<svg width="640" height="640" version="1.1" viewBox="0 0 600 600" xmlns="http://www.w3.org/2000/svg">
+ <g>
+  <rect transform="translate(0 -452.36)" x="-4.5952" y="447.83" width="606.87" height="610.46" fill="#32729b" opacity=".7" stroke-width=".95763"/>
+ </g>
+ <g transform="translate(0 -452.36)">
+  <text x="59.147392" y="606.20532" fill="#000000" font-family="'Fira Code'" font-size="37.5px" stroke-width=".9375" xml:space="preserve"><tspan x="59.147392" y="606.20532">This is a test of the</tspan><tspan x="59.147392" y="653.08032">SVG-to-PNG-to-JPG</tspan><tspan x="59.147392" y="699.95532">conversion factor.</tspan><tspan x="59.147392" y="746.83032"/><tspan x="59.147392" y="793.70532">SVG Size: 1 - 4kb</tspan><tspan x="59.147392" y="840.58032">PNG Size: 62kb</tspan><tspan x="59.147392" y="887.45532">JPG Size: 48kb</tspan></text>
+ </g>
+</svg>

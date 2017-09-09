@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   version="1.1"
+   width="1000"
+   height="1100"
+   viewBox="0 0 1000 1100"
+   id="svg3089">
+  <defs
+     id="defs3091">
+        <linearGradient
+       id="linearGradient3934">
+      <stop
+         id="stop3936"
+         style="stop-color:#baa286;stop-opacity:1"
+         offset="0" />
+      <stop
+         id="stop3946"
+         style="stop-color:#dccdba;stop-opacity:1"
+         offset="0.06" />
+      <stop
+         id="stop3942"
+         style="stop-color:#dccdba;stop-opacity:1"
+         offset="0.73000002" />
+      <stop
+         id="stop3948"
+         style="stop-color:#e2d7c8;stop-opacity:1"
+         offset="0.82999998" />
+      <stop
+         id="stop3944"
+         style="stop-color:#c7ad95;stop-opacity:1"
+         offset="0.95999998" />
+      <stop
+         id="stop3938"
+         style="stop-color:#c7ad95;stop-opacity:1"
+         offset="1" />
+    </linearGradient>
+  </defs>
+  <g
+     transform="translate(-700,-1420)"
+     cursor="pointer"
+     id="block1b">
+    <path
+       d="M 1091.7177,2133.351 L 1155.197,2157.0299 L 1166.1589,2146.5787 L 1266.9765,2184.1883 L 1335.5191,2118.8395 L 1171.2236,2057.5497 L 1091.7177,2133.351 z"
+       id="path2963"
+       style="fill:#d8c0a6" />
+  </g>
+</svg>

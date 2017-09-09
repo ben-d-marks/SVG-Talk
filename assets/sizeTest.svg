@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   version="1.1"
+   id="svg2"
+   viewBox="0 0 600 600"
+   height="640"
+   width="640">
+  <defs
+     id="defs4" />
+  <metadata
+     id="metadata7">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     style="display:inline"
+     id="layer2">
+    <rect
+       style="display:inline;opacity:0.7;fill:#32729b;fill-opacity:1;stroke-width:0.95762855"
+       y="447.83151"
+       x="-4.5952263"
+       height="610.46387"
+       width="606.87439"
+       id="rect92"
+       transform="translate(0,-452.36216)" />
+  </g>
+  <g
+     style="display:inline"
+     transform="translate(0,-452.36216)"
+     id="layer1">
+    <text
+       id="text74"
+       y="606.20532"
+       x="59.147392"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:37.5px;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.9375"
+       xml:space="preserve"><tspan
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="606.20532"
+         x="59.147392"
+         id="tspan72">This is a test of the</tspan><tspan
+         id="tspan76"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="653.08032"
+         x="59.147392">SVG-to-PNG-to-JPG</tspan><tspan
+         id="tspan90"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="699.95532"
+         x="59.147392">conversion factor.</tspan><tspan
+         id="tspan78"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="746.83032"
+         x="59.147392" /><tspan
+         id="tspan80"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="793.70532"
+         x="59.147392">SVG Size: 1 - 4kb</tspan><tspan
+         id="tspan82"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="840.58032"
+         x="59.147392">PNG Size: 62kb</tspan><tspan
+         id="tspan84"
+         style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-family:'Fira Code';-inkscape-font-specification:'Fira Code';stroke-width:0.9375"
+         y="887.45532"
+         x="59.147392">JPG Size: 48kb</tspan></text>
+  </g>
+</svg>
