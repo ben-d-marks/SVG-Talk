@@ -18,10 +18,9 @@
 1. No Bitmaps explanation
 1. External Example of embedded jpg
 1. Slow Animations
-1. External Example of complicated animations
+1. https://developer.mozilla.org/samples/svg/swarm-of-motes.xhtml
 1. Complicated Structure
-1. More to come...
-1. Example of complication
+1. Look at that strawberry
 1. Canvas-like Activities
 1. Examples/explanation
 1. The Good Things Title
